@@ -1,6 +1,6 @@
 # 0501_HW_LinuxLab_UtilityScript
 
-Simple script designed to copy files, store backups and create the necessary directories to o=complete the process.
+Simple script designed to copy files, store backups and create the necessary directories to complete the process.
 Afterwards the script will give a report with the date timw and, other basic info.
 Script Actions
 
