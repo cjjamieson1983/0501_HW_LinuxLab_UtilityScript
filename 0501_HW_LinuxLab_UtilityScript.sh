@@ -69,4 +69,4 @@ mv -v New/sample1.txt Archive/sample1_renamed.txt
 # Print the report
 cat "$REPORT"
 
-
+echo "script complete"
