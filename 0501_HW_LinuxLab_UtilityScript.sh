@@ -2,6 +2,8 @@
 
 REPORT="report.txt"
 
+echo "Starting Script"
+
 #Make Directories
 mkdir New
 mkdir Backup
