@@ -4,6 +4,8 @@ REPORT="report.txt"
 
 echo "Starting Script"
 
+pwd
+
 #Make Directories
 mkdir New
 mkdir Backup
