@@ -17,7 +17,9 @@ cp -v
 Moves and renames file
 mv -v
 Generates report
-
+cat
 Displays report
 
+
+Make the lab executable: chmod +x 0501_HW_LinuxLab_UtilityScript.sh
 Luanch the script : bash 0501_HW_LinuxLab_UtilityScript.sh
